@@ -4,7 +4,7 @@ The Dataset Link : [Anime Face!](https://www.kaggle.com/soumikrakshit/anime-face
 
 ### Generator Architecture
 
-![Generator](https://github.com/Abatpool/Anime_Face_Generation--GAN/blob/main/Model/generator.JPG)
+![Generator](https://github.com/Abatpool/Anime_Face_Generation--GAN/blob/main/Model/Generator.JPG)
 
 
 ### Generator Architecture
